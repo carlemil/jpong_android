@@ -22,7 +22,6 @@ Robodjuce - https://github.com/roboguice/roboguice - an annotation / injection f
 
 Know of any other frameworks? add them here!
 
-
 1. Fetch data from http://jaywaypongserver.herokuapp.com/match_history.json and populate the "Math history" page using volley or spring (or android annotations that also supports some networking via annotations).
 The server can be found at https://github.com/jayway/KHelgGameServer
 Run the server and use the static match_history.json to get some data for your "Math history" page
