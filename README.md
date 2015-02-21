@@ -28,6 +28,3 @@ Run the server and use the static match_history.json to get some data for your "
 
 2. Stop using the logo from the res folder and fetch the logo from the server, http://jaywaypongserver.herokuapp.com/jay.png or use any other picture loded from internet (http://placekitten.com/200/302)
 
-3. Remove all boilerplate code and use annotations to inject stuff.
-
-4. Implement a chat page in the client. More info on the chat feature of the server can be found in the server READ.ME
