@@ -1,23 +1,6 @@
 # Pong UI for android
 
-Agenda for 2015-02-27 competences-day.
-
-Try out some frameworks for fetching images/json data over the network and for annotating your app (getting rid of boilerplate code).
-
-Frameworks:
-
-Dagger2 - http://google.github.io/dagger/ - an annotation / injection framework
-
-Android annotations - http://androidannotations.org/ - an annotation / injection framework
-
-Volley - http://developer.android.com/training/volley/index.html - Networking
-
-Picaso - http://square.github.io/picasso/ - Image downloading and handling
-
-Butterknife - http://jakewharton.github.io/butterknife/ - an annotation / injection framework
-
-Spring - http://projects.spring.io/spring-android/ - Networking
-
-Robodjuce - https://github.com/roboguice/roboguice - an annotation / injection framework
-
-Know of any other frameworks? add them here!
+In the ChatActivity you can find a stub that shows how to talk over a websocket. 
+Using the server found at http://jaywaypongserver.herokuapp.com/ or by running it locally
+(find it on github: https://github.com/jayway/KHelgGameServer) you are to implement a "pong" game.
+If you chose to control the "paddle" yourself or let the program control it is up to you.
